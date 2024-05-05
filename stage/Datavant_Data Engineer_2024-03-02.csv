@@ -1,0 +1,48 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer,Datavant,2024-03-02,,on,https://www.datavant.com/,https://www.linkedin.com/jobs/view/data-engineer-at-datavant-3831665722?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,https://www.datavant.com/about/careers/salaried-roles?gh_jid=6987592002,"$90,000 - $130,000","104,000",,"
+
+Datavant protects, connects, and delivers the world’s health data to power better decisions and advance human health. We are a data logistics company for healthcare whose products and solutions enable organizations to move and connect data securely. Datavant has a network of networks consisting of thousands of organizations, more than 70,000 hospitals and clinics, 70% of the 100 largest health systems, and an ecosystem of 500+ real-world data partners.
+
+By joining Datavant today, you’re stepping onto a highly collaborative, remote-first team that is passionate about creating transformative change in healthcare. We hire for three traits: we want people who are smart, nice, and get things done. We invest in our people and believe in hiring for high-potential and humble individuals who can rapidly grow their responsibilities as the company scales. Datavant is a distributed, remote-first team, and we empower Datavanters to shape their working environment in a way that suits their needs. 
+
+The Healthjump delivery data engineers are masters of data ETL. We create and maintain integrations for over 60+ EHR’s powering every patient use case you can think of. Our team is full of go getters that work in a matrixed 100% remote environment on agile teams that support customers from go live to support for the live of the integration.  
+
+You will:
+
+    Create and maintain ELT/ETL processes for existing and new systems.
+    Collaborate with development and business teams to understand requirements and define source system data flows
+    Develop and maintain ETL/ETL specifications for data integration development
+    Define and deliver consistent data modeling and data architecture standards, methodologies, guidelines and techniques
+    Document, implement and maintain the data pipeline architecture and related business processes
+    Serve as a source of knowledge of industry practices and processes.
+    Participate in the development of enterprise standards and guidelines for data model quality and accuracy
+    Audit project level data model quality deliverables to ensure that practices and standards are met
+    Analyze information and data requirements and understand effects of data inconsistencies
+    Identify inefficiencies in current architecture and processes and communicate solutions in a manner that gets support from the teams involved
+    Perform cost and sizing estimates for projects
+    Collaborate with the project coordinator and the rest of the agile team to identify epics, stories and estimate effort
+    Create and maintain data dictionary documents, table and data lineage models and produce artifacts to support project development and communicate project information to customers
+
+Requirements:
+
+    Bachelors in Computer Science or other engineering degree equivalent
+
+What you will bring to the table:
+
+    Master of SQL and Python Languages
+    Experience with using Airflow
+
+Bonus points if Requirements:
+
+    Healthcare data experience
+    Knowledge of clinical systems (e.g. Cerner, Epic, Meditech, etc.) and standard Acute/Ambulatory workflows.
+    Preferred AWS Cloud Practitioner or above certification
+
+We are committed to building a diverse team of Datavanters who are all responsible for stewarding a high-performance culture in which all Datavanters belong and thrive. We are proud to be an Equal Employment Opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status.
+
+Our compensation philosophy is to be externally competitive, internally fair, and not win or lose on compensation. Salary ranges for this position are developed with the support of benchmarks and industry best practices. 
+
+We’re building a high-growth, high-autonomy culture. We rely less on job titles and more on cultivating an environment where anyone can contribute, the best ideas win, and personal growth is driven by expanding impact. The range posted is for a given job title, which can include multiple levels. Individual rates for the same job title may differ based on their level, responsibilities, skills, and experience for a specific job. The estimated salary range for this role is  $90,000 - $130,000.
+
+At the end of this application, you will find a set of voluntary demographic questions. If you choose to respond, your responses will be anonymous and used to help us identify areas of improvement in our recruitment process. (We can only see aggregate responses, not individual responses. In fact, we aren’t even able to see if you’ve responded or not.) Responding is your choice and it will not be used in any way in our hiring process.
+",17:41:1709509261

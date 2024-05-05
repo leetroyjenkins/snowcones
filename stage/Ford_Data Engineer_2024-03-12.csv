@@ -1,0 +1,81 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer,Ford,2024-03-12,,on,https://corporate.ford.com/,https://corporate.ford.com/careers/job-opportunities.html,https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/25770/?keyword=data+engineer&mode=location,,110000,100,000 - 130,000,"Ford Pro is a new global business within Ford committed to commercial customer productivity. Ford Pro delivers a work-ready suite of vehicles, accessories, and services for virtually every vocation, backed by technology, and engineered for uptime. A true one-stop shop, offering a full portfolio of electrified and internal combustion vehicles designed to integrate seamlessly with the Ford Pro ecosystem, helping customers' businesses thrive today and into the new era of electrification.
+
+
+Ford Pro Tech –Data & Analytics (D&A) is a global team responsible for the strategy & delivery of 360 data services, modern business intelligence, and advanced analytics solutions powering Ford Pro. This enables Ford Pro to operate as an analytics-driven business in a competitive marketplace. 
+
+We are seeking experienced Data & Analytics professionals to add to our product teams to drive the next generation of Commercial Business.  D&A Cloud Data Engineers work in a Product Management Delivery model working end-to-end with business partners, analytics managers, product owners, product designers, data scientists, business intelligence engineers, and software developers to deliver analytics innovation. 
+
+This is an exciting and fast-paced role, which requires exceptional technical data and analytics skills with the opportunity to create huge impact to Ford Pro Commercial business. 
+
+Pro 360 Data Product Group:  Leads design and product teams with create the operational core data capability for Ford Pro Tech.  Includes ETL processes, multi-tier data model designs and implementations, data quality strategy & monitoring, plus domain expertise of data sets in the environment, third-party data evaluations, data quality, creating intelligence layers for ease of use.  
+
+As a Cloud Data Engineer, you will leverage your technical expertise in data, analytics, cloud technologies, and analytic software tools to identify best designs, improve business processes, and generate measurable business outcomes.   You will work with Data Engineering teams from within D&A, across the Pro Tech portfolio and additional Ford organizations such as GDI&A (Global Data Insight & Analytics), Enterprise Connectivity, Ford Customer Service Division, Ford Credit, etc. 
+
+ 
+Responsibilities
+
+As a Cloud Data Engineer, you will leverage your technical expertise in data, analytics, cloud technologies, and analytic software tools to identify best designs, improve business processes, and generate measurable business outcomes.   You will work with Data Engineering teams from within D&A, across the Pro Tech portfolio and additional Ford organizations such as GDI&A (Global Data Insight & Analytics), Enterprise Connectivity, Ford Customer Service Division, Ford Credit, etc
+
+    Develop EL/ELT/ETL pipelines to make data available in BigQuery analytical data store from disparate batch, streaming data sources for the Salesforce, Business Intelligence and Data Science teams
+    Work with on-prem data sources (Teradata, SQL Server) and Cloud data sources (GCP) understand the data model, business rules behind the data and build data pipelines (with GCP) for one or more Ford Pro verticals. This data will be landed in GCP BigQuery.
+    Build cloud-native services and APIs to support and expose data-driven solutions.
+    Partner closely with our data scientists to ensure the right data is made available in a timely manner to deliver compelling and insightful solutions. 
+    Design, build and launch shared data services to be leveraged by the internal and external partner developer community. 
+    Building out scalable data pipelines and choosing the right tools for the right job. Manage, optimize and Monitor data pipelines. 
+    Provide extensive technical, strategic advice and guidance to key stakeholders around data transformation efforts. Understand how data is useful to the enterprise.
+
+Qualifications
+
+    Bachelors Degree
+    2+ years of experience with SQL and Python
+    2+ years of experience with GCP or AWS cloud services; Strong candidates with 5+ years in a  traditional data warehouse environment (ETL pipelines with Informatica) will be considered
+    2+ years of experience building out data pipelines from scratch in a highly distributed and fault-tolerant manner. 
+    Comfortable with a broad array of relational and non-relational databases.
+    Proven track record of building applications in a data-focused role (Cloud and Traditional Data Warehouse)
+
+ 
+
+What you’ll receive in return:
+
+As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:
+
+• Immediate medical, dental, and prescription drug coverage
+
+• Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up child care and more
+
+• Vehicle discount program for employees and family members, and management leases
+
+• Tuition assistance
+
+• Established and active employee resource groups
+
+• Paid time off for individual and team community service
+
+• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day
+
+• Paid time off and the option to purchase additional vacation time.
+
+ 
+
+Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is not available for this position. 
+
+We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.
+
+ 
+
+For information on Ford's salary and benefits, please visit: 
+
+https://corporate.ford.com/content/dam/corporate/us/en-us/documents/careers/2024-benefits-and-comp-GSR-sal-plan-2.pdf
+
+ 
+
+#LI-Remote
+
+Job Identification 25770
+Job Category Enterprise Technology
+Posting Date 03/05/2024, 12:41 AM
+Degree Level Bachelor's Degree or equivalent
+Job Schedule Full time
+Locations CIRC 1333 Fairlane Cir, Allen Park, MI, 48101, US (Remote)
+Remote Yes",15:04:1710273844

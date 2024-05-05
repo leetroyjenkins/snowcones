@@ -1,0 +1,177 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer - All Levels,Fedex,,,on,,https://careers.fedex.com/dataworks/jobs/RC695297?lang=en-us&codes=FDW-LinkedIn,https://fedex.wd1.myworkdayjobs.com/en-US/FDW_External_Career_Site/job/Data-Engineer---All-Levels_RC695297," $6,317.00 - $15,477.00",,"90,000 - 130,000","
+Skip to main content
+careers
+FDW - Career Site
+Data Engineer - All Levels page is loaded
+Data Engineer - All Levels
+You applied for this job on March 30, 2024.
+View Application
+
+locations
+    US Remote
+
+time type
+    Full time
+
+posted on
+    Posted 3 Days Ago
+
+job requisition id
+    RC695297
+
+3680 Hacks Cross Road  38125-8800 Memphis,Tennessee United States of America
+
+RC695297 Data Engineer - All Levels (Evergreen) (Open)
+
+Information Technology
+
+Want a career where you are empowered to make a difference? Want to work for a company that is environmentally responsible? Want to grow and develop on the job? If so, FedEx is the place for you! Every day FedEx delivers for its customers with transportation and business solutions. FedEx serves more than 220 countries and territories around the globe. We can serve this global network due to our outstanding team of FedEx employees. FedEx has over 400,000 talented employees who are tasked with making every FedEx experience outstanding. FedEx has been recognized on many different lists both for business success and for being a great employer.
+
+Here are some of the recognitions FedEx has received from the past couple of years:
+
+    Fortune “World’s Most Admired Companies” – 2020
+    Forbes ""Best Employers for Diversity"" - 2020
+    Reputation Institute “World’s Most Reputable Companies” – 2019
+    National Business Inclusion Consortium ""Best-of-the-Best Corporations for Inclusion"" - 2019
+    Women’s Business Enterprise National Council “America’s Top Corporations for Women’s Business Enterprises” - 2019
+
+
+When 400,000 employees around the globe are all working together it is amazing what we can achieve! FedEx connects people and ideas. If you would like to make a difference on a global scale while receiving top notch benefits, competitive pay, and plenty of opportunities to develop, click ‘Apply’ and tell us more about yourself.
+
+Job Description
+
+Duties for this role include but not limited to: supporting the design, build, test and maintain data pipelines at big data scale.  Assists with updating data from multiple data sources.  Work on batch processing of collected data and match its format to the stored data, make sure that the data is ready to be processed and analyzed. Assisting with keeping the ecosystem and the pipeline optimized and efficient, troubleshooting standard performance, data related problems and provide L3 support. Implementing parsers, validators, transformers and correlators to reformat, update and enhance the data. Provides recommendations to highly complex problems. Providing guidance to those in less senior positions.
+
+Additional Job Description:
+
+Data Engineers play a pivotal role within Dataworks, focused on creating and driving engineering innovation and facilitating the delivery of key business initiatives. Acting as a “universal translator” between IT, business, software engineers and data scientists, data engineers collaborate across multi-disciplinary teams to deliver value. Data Engineers will work on those aspects of the Dataworks platform that govern the ingestion, transformation, and pipelining of data assets, both to end users within FedEx and into data products and services that may be externally facing. Day-to-day, they will be deeply involved in code reviews and large-scale deployments.
+
+Essential Job Duties & Responsibilities
+
+    Understanding in depth both the business and technical problems Dataworks aims to solve
+
+    Building tools, platforms and pipelines to enable teams to clearly and cleanly analyze data, build models and drive decisions
+
+    Scaling up from “laptop-scale” to “cluster scale” problems, in terms of both infrastructure and problem structure and technique
+
+    Collaborating across teams to drive the generation of data driven operational insights that translate to high value optimized solutions.
+
+    Delivering tangible value very rapidly, collaborating with diverse teams of varying backgrounds and disciplines
+
+    Codifying best practices for future reuse in the form of accessible, reusable patterns, templates, and code bases
+
+    Interacting with senior technologists from the broader enterprise and outside of FedEx (partner ecosystems and customers) to create synergies and ensure smooth deployments to downstream operational systems
+
+Skill/Knowledge Considered a Plus
+
+    Technical background in computer science, software engineering, database systems, distributed systems
+
+    Fluency with distributed and cloud environments and a deep understanding of optimizing computational considerations with theoretical properties
+
+    Experience in building robust cloud-based data engineering and curation solutions to create data products useful for numerous applications
+
+    Detailed knowledge of the Microsoft Azure tooling for large-scale data engineering efforts and deployments is highly preferred. Experience with any combination of the following azure tools: Azure Databricks, Azure Data Factory, Azure SQL D, Azure Synapse Analytics
+
+    Developing and operationalizing capabilities and solutions including under near real-time high-volume streaming conditions.
+
+    Hands-on development skills with the ability to work at the code level and help debug hard to resolve issues.
+
+    A compelling track record of designing and deploying large scale technical solutions, which deliver tangible, ongoing value 
+
+        Direct experience having built and deployed robust, complex production systems that implement modern, data processing methods at scale
+
+        Ability to context-switch, to provide support to dispersed teams which may need an “expert hacker” to unblock an especially challenging technical obstacle, and to work through problems as they are still being defined
+
+        Demonstrated ability to deliver technical projects with a team, often working under tight time constraints to deliver value
+
+        An ‘engineering’ mindset, willing to make rapid, pragmatic decisions to improve performance, accelerate progress or magnify impact
+
+        Comfort with working with distributed teams on code-based deliverables, using version control systems and code reviews
+
+    Ability to conduct data analysis, investigation, and lineage studies to document and enhance data quality and access
+
+    Use of agile and devops practices for project and software management including continuous integration and continuous delivery
+
+    Demonstrated expertise working with some of the following common languages and tools: 
+
+        Spark (Scala and PySpark), Kafka and other high-volume data tools
+
+        SQL and NoSQL storage tools, such as MySQL, Postgres, MongoDB/CosmosDB
+
+        Java, Python data tools
+
+        Azure DevOps experience to track work, develop using git-integrated version control patterns, and build and utilize CI/CD pipelines
+
+        Working knowledge and experience implementing data architecture patterns to support varying business needs
+
+        Experience with different data types (json, xml, parquet, avro, unstructured) for both batch and streaming ingestions
+
+        Use of Azure Kubernetes Services, Eventhubs, or other related technologies to implement streaming ingestions
+
+        Experience developing and implementing alerting and monitoring frameworks
+
+        Working knowledge of Infrastructure as Code (IaC) through Terraform to create and deploy resources
+
+        Implementation experience across different data stores, messaging systems, and data processing engines
+
+        Data integration through APIs and/or REST service
+
+        ​PowerPlatform (PowerBI, PowerApp, PowerAutomate) development experience a plus
+
+Minimum Qualifications:
+
+Data Engineer I:
+
+Bachelor’s Degree in Information Systems, Computer Science or a quantitative discipline such as Mathematics or Engineering and/or One (1) year equivalent formal training or work experience. Basic knowledge in data engineering and machine learning frameworks including design, development and implementation of highly complex systems and data pipelines. Basic knowledge in Information Systems including design, development and implementation of large batch or online transaction-based systems. Experience as a junior member of multi-functional project teams. Strong oral and written communication skills. A related advanced degree may offset the related experience requirements.
+
+Sponsorship is not available for Data Engineer I role.
+ 
+
+Data Engineer II:
+Bachelor's Degree in Computer Science, Information Systems, a related quantitative field such as Engineering or Mathematics or equivalent formal training or work experience. Two (2) years equivalent work experience in measurement and analysis, quantitative business problem solving, simulation development and/or predictive analytics. Strong knowledge in data engineering and machine learning frameworks including design, development and implementation of highly complex systems and data pipelines. Strong knowledge in Information Systems including design, development and implementation of large batch or online transaction-based systems. Strong understanding of the transportation industry, competitors, and evolving technologies. Experience as a member of multi-functional project teams. Strong oral and written communication skills. A related advanced degree may offset the related experience requirements.
+
+Sponsorship is not available for Data Engineer II role.
+
+Data Engineer III:
+Bachelor’s Degree in Information Systems, Computer Science or a quantitative discipline such as Mathematics or Engineering and/or equivalent formal training or work experience. Three to Four (3 - 4) years equivalent work experience in measurement and analysis, quantitative business problem solving, simulation development and/or predictive analytics. Extensive knowledge in data engineering and machine learning frameworks including design, development and implementation of highly complex systems and data pipelines. Extensive knowledge in Information Systems including design, development and implementation of large batch or online transaction-based systems. Strong understanding of the transportation industry, competitors, and evolving technologies. Experience providing leadership in a general planning or consulting setting. Experience as a senior member of multi-functional project teams. Strong oral and written communication skills. A related advanced degree may offset the related experience requirements.
+
+Data Engineer Lead:
+Bachelor’s Degree in Information Systems, Computer Science, or a quantitative discipline such as Mathematics or Engineering and/or equivalent formal training or work experience. Five to Seven (5 - 7) years equivalent work experience in measurement and analysis, quantitative business problem solving, simulation development and/or predictive analytics. Extensive knowledge in data engineering and machine learning frameworks including design, development and implementation of highly complex systems and data pipelines. Extensive knowledge in Information Systems including design, development and implementation of large batch or online transaction-based systems. Strong understanding of the transportation industry, competitors, and evolving technologies. Experience providing leadership in a general planning or consulting setting. Experience as a leader or a senior member of multi-function project teams. Strong oral and written communication skills. A related advanced degree may offset the related experience requirements.
+
+Domicile / Relocation Information:
+This position can be domiciled anywhere in the United States.
+ 
+
+Application Criteria:
+Upload current copy of Resume (Microsoft Word or PDF format only) and answer job screening questionnaire.
+
+Colorado, Nevada, Connecticut, New York, California, Rhode Island, Washington, Hawaii, Illinois, New Jersey  Residents Only – Compensation:
+
+Monthly Salary: $6,317.00 - $15,477.00
+
+This compensation range is provided as a reasonable estimate of the current starting salary range for this role. Factors that may be used to determine your actual salary may include but are not limited to your specific skills, your work location, how many years of experience you have, and comparison to other employees already in this role.
+
+EEO Statement - FedEx Dataworks is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetics disability, or protected Veteran status.
+
+Dataworks does not discriminate against qualified individuals with disabilities in regard to job application procedures, hiring, and other terms and conditions of employment.  Further, Dataworks is prepared to make reasonable accommodations for the known physical or mental limitations of an otherwise qualified applicant or employee to enable the applicant or employee to be considered for the desired position, to perform the essential functions of the position in question, or to enjoy equal benefits and privileges of employment as are enjoyed by other similarly situated employees without disabilities, unless the accommodation will impose an undue hardship. If a reasonable accommodation is needed, please contact DataworksTalentAcquisition@corp.ds.fedex.com
+
+Job Posting End Date:
+04-07-2024
+Similar Jobs (1)
+Data Scientist - All Levels
+
+locations
+    US Remote
+
+time type
+    Full time
+
+posted on
+    Posted 30+ Days Ago
+
+About Us
+Logo
+To view and apply to additional career opportunities with FedEx, please return to the FedEx Careers site to follow our complete job application proces
+© 2024 Workday, Inc. All rights reserved.
+",06:44:1711799065

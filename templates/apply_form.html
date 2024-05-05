@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Input Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <!-- Navigation Bar Content -->
+            <a href="#home">Home</a>
+            <!-- Additional navigation items can be added here -->
+        </div>
+        <div class="main-content" id="home">
+            <!-- Main Content and Form -->
+            <h1>Apply for a Job</h1>
+            <form action="/" method="post">
+                <input type="text" id="jobTitle" name="jobTitle" placeholder="Job Title" required><br>
+                <input type="text" id="company" name="company" placeholder="Company" required><br>
+                <input type="date" id="applicationDate" name="applicationDate" placeholder="Application Date"><br>
+                <input type="text" id="location" name="location" placeholder="location"><br>
+                <input type="checkbox" id="remoteBool" name="remoteBool" checked>
+                <label for="remoteBool">Check if remote.</label><br>
+                <input type="text" id="companyUrl" name="companyUrl" placeholder="Company URL"><br>
+                <input type="text" id="sourceUrl" name="sourceUrl" placeholder="Source URL"><br>
+                <input type="text" id="applicationUrl" name="applicationUrl" placeholder="Application URL"><br>
+                <input type="text" id="listedComp" name="listedComp" placeholder="Listed Compensation"><br>
+                <input type="text" id="estimatedComp" name="estimatedComp" placeholder="Estimated Compensation"><br>
+                <input type="text" id="requestedComp" name="requestedComp" placeholder="Requested Compensation"><br>
+                <textarea id="jobDescription" name="jobDescription" placeholder="Job Description" style="resize: both;"></textarea><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+    </div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.querySelector('form');
+    form.onsubmit = function(e) {
+        e.preventDefault(); // Prevent the default form submission
+        const formData = new FormData(form);
+
+        fetch('/', {
+            method: 'POST',
+            body: formData,
+        })
+        .then(response => response.json())
+        .then(data => {
+            if(data.success) {
+                alert(data.message); // Show the popup with the message from Flask
+                form.reset(); // Clear the form
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    };
+});
+</script>
+</body>
+</html>
