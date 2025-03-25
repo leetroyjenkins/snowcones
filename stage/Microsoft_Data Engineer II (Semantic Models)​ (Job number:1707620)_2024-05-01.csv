@@ -1,0 +1,100 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer II (Semantic Models)​ (Job number:1707620),Microsoft,2024-05-01,"Redmond, WA",on,,,https://jobs.careers.microsoft.com/global/en/job/1707620,"USD $94,300 - $182,600",,,"Data Engineer II (Semantic Models)​
+
+Redmond, Washington, United States
+
+Save
+
+Share job
+Date posted
+Apr 10, 2024
+Job number
+1707620
+Work site
+Up to 100% work from home
+Travel
+None
+Role type
+Individual Contributor
+Profession
+Software Engineering
+Discipline
+Data Engineering
+Employment type
+Full-Time
+Overview
+
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. 
+ 
+Microsoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.
+
+​​Within Azure Data, the Insights and Analytics team is dedicated to building and maintaining internal analytics and reporting platform hosted on Microsoft Fabric. This platform delivers insights to Azure Data Engineering team leaders, Product Managers, Marketing, Finance and Sales. Additionally, the team serves as the initial customer of newly developed products and features, running them in a production environment and collaborating closely with product managers and engineers to provide invaluable feedback. 
+ 
+We are seeking a skilled Data Engineer II to enhance the Semantic Models of our analytics platform to accommodate the expanding data volume and user base, while also focusing on ensuring dependable and high-performing operations. 
+ 
+Your day-to-day responsibilities will involve participating in regular standup meetings, picking up work items based on your capacity, collaborating with the team’s Program Managers to define new projects or initiatives, and generating innovative ideas for enhancements. Beyond the semantic model development work, you will engage directly with the teams developing the tools we utilize, enabling you to offer direct product feedback and witness your input driving changes in the products over time. Our team aims to provide comprehensive reporting on the health of Azure Data products and contribute to their overall effectiveness and utility. 
+
+ 
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+ 
+
+In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day.
+Qualifications
+
+Required/Minimum Qualifications
+
+    Bachelor's Degree in Computer Science, Math, Software Engineering, Computer Engineering , or related field AND 2+ years experience in business analytics, data science, software development, data modeling or data engineering work
+        OR Master's Degree in Computer Science, Math, Software Engineering, Computer Engineering or related field AND 1+ year(s) experience in business analytics, data science, software development, or data engineering work
+        OR equivalent experience.
+
+Other Requirements 
+
+ 
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check:
+
+    This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+Additional or Preferred Qualifications
+
+    Bachelor's Degree in Computer Science , Math, Software Engineering, Computer Engineering , or related field AND 5+ years experience in business analytics, data science, software development, data modeling or data engineering work
+        OR Master's Degree in Computer Science, Math, Software Engineering, Computer Engineering , or related field AND 3+ years of business analytics, data science, software development, data modeling or data engineering work experience
+        OR equivalent experience.
+    Knowledge of relational modeling concepts, and Microsoft tabular semantic models.
+    3+ years experience in Data Engineering or Analytics work with at least 2+ years of tabular development, DAX and SQL.
+    2+ years experience translating business requirements to technical requirements
+
+Data Engineering IC3 - The typical base pay range for this role across the U.S. is USD $94,300 - $182,600 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $120,900 - $198,600 per year.
+
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+
+Microsoft will accept applications for the role until May 25, 2024.
+
+ 
+
+ 
+
+#azdat 
+#azuredata 
+​​#fabric #powerbi #dax​ 
+Responsibilities
+
+    Lead the development of the team’s Power BI/Fabric semantic models.
+    Work with the Program Managers on translating business requirements to tabular modeling development requirements.
+    Work with the Program Managers on moving report-based DAX measures into the team’s central semantic model.
+    Work on continuously improving user experience by measuring and optimizing performance of the semantic model.
+    Work with the Data Engineering team on specifying data engineering requirements based on the semantic model designs and development requirements.
+    Contribute to the design of major feature enhancements for Fabric and leverage your experience and perspective to provide critical feedback on the approach with special focus on Direct Lake feature.
+    Work directly with business stakeholders to refine requirements, iterate, and finalize design, deliver working proofs of concept, and develop final data solutions.
+    Collaborate with your peers and maintain flexibility on domain ownership as business priorities evolve.
+    Contribute to the success of Azure Data by trying out and testing new products and features, dedicating time to providing direct feedback to the Product Group.
+    Work with other data teams within Microsoft on understanding their semantic models, and onboard/merge topics from other models based on the business requirements.
+    Contribute to others' success by sharing tabular model development best practices within and outside of Microsoft.
+
+Other
+
+    Embody our Culture and Values
+
+",10:59:1714924776

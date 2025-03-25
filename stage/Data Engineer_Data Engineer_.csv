@@ -1,0 +1,39 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer,Data Engineer,,,on,,,,,,,"
+
+What you will do
+
+    Build a highly functional and efficient Big Data platform that brings together data from disparate sources and allow FinThrive to design and run complex algorithms providing insights to healthcare business operations
+    Build ETL Data Pipelines in Azure Cloud using Azure ADF and Databricks
+    Build Spark Streaming and Near Real Time applications
+    Partner with internal business, product, and technical teams to analyze complex requirements and deliver solutions
+    Participate in development, automation, and maintenance of application code to ensure consistency, quality, reliability, scalability, and system performance
+    Deliver data and software solutions working on Agile delivery teams 
+
+ 
+
+What you will bring
+
+    Bachelor’s degree in computer science or a related discipline 
+    1+ years of data engineering in an enterprise environment 
+    1+ years of experience writing production code in Python, PySpark or Scala 
+    Strong coding experience in at least one programming language. Python preferred.
+    Experience with Big Data technologies in the Cloud such as Spark, Databricks, Hive, Sqoop, or any other equivalent components. Azure preferred.
+    Experience with any Streaming applications such as Kafka, Spark Streaming, Azure Event Hub
+    Experience in having built and deployed to Production reasonably complex ETL Data Pipelines. 
+    Experience working with git and CI/CD tools 
+    Proven background in Distributed Computing, ETL development, and large-scale data processing 
+
+ 
+
+What we would like to see
+
+    Experience within healthcare field in a similar role
+    Proficiency in SQL and query optimization 
+    Experience in Azure PowerShell
+    Experience with Azure ADF, Azure Databricks.
+    Experience with SQL Server. Preferred but not required.
+    Experience with CI/CD, DevOps.
+    Knowledge and passion for software development – including software architecture, functional and non-functional aspects
+
+",11:05:1714925141

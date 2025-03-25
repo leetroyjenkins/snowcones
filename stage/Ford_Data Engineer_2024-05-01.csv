@@ -1,0 +1,85 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer,Ford,2024-05-01,United States (Remote),on,,,https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile/preview/28654,This position is a range of salary grades 8.,,,"Data Engineer
+United States (Remote)
+Job Description
+
+Data Factory (DF) is a GDIA (Global Data Insights and Analytics) team supporting Ford+ and Ford’s data superiority vision. This role is within the GDIA Identity Resolution Team (IR).  The IR team plays a pivotal role within our organization, focusing on analyzing and understanding complex data patterns to innovate and enhance customer profiles. Our mission is to empower businesses to unlock the full potential of their data, ensuring accurate, secure, and efficient identification across various platforms and systems. We are seeking a highly skilled AI/ML Data Engineer with expertise in Google Cloud Platform (GCP) to join our team. This individual will play a crucial role in developing and implementing automated, auditable best practices and processes to support both our business and technical communities. By harnessing the power of AI/ML on GCP, you will enhance our capabilities to deliver precise and scalable identity solutions.
+Responsibilities
+
+    Design and develop robust, scalable data processing and machine learning pipelines on GCP to support identity resolution projects.
+    Implement and optimize algorithms for AI-based identity matching, entity resolution, and data deduplication.
+    Collaborate with data scientists and other stakeholders to translate complex requirements into effective, efficient data solutions.
+    Leverage GCP services (e.g., BigQuery, Dataflow, AI Platform, Pub/Sub,Vertex AI,LLM, Looker Studio) to process, store, and analyze large datasets.
+    Ensure data quality and integrity throughout the data lifecycle, applying best practices for data governance and compliance.
+    Design and implement machine learning models to solve specific business challenges. Optimize data processing and feature engineering to enhance model performance.
+    Monitor and evaluate the performance of ML models, making adjustments and improvements as needed.
+    Stay abreast of new technologies and methodologies in AI/ML and data engineering to continuously improve our identity resolution capabilities.
+    Work with Architecture, Data Factory, Data Ingestion, Cataloging, Quality, Metadata and Operations teams to implement strategic solutions.
+
+Qualifications
+
+Basic Qualifications:
+
+    Requires a bachelor’s or foreign equivalent degree in computer science, information technology or a technology related field
+    Ability to work effectively across organizations, product teams and business partners.
+    Knowledge Agile (Scrum) Methodology, experience in writing user stories 
+    Database and SQL experience: Strong understating of Database concepts and experience with multiple database technologies – optimizing query and data processing performance.
+    Experience with BigQuery SQL, AWS and/or Azure.
+    Experience programming engineering transformation in Python or a similar language. 
+    Knowledge of Data Warehouse concepts – experience with Data Warehouse/ ETL processes 
+    Strong process discipline and thorough understating of IT processes (ISP, Data Security).
+
+Preferred Qualifications:
+
+    Proven experience as a Data Engineer or Machine Learning Engineer, with a strong focus on identity resolution solutions.
+    Proficiency in programming languages such as Python, and familiarity with SQL or NoSQL databases.
+    Experience in building and optimizing data pipelines, architectures, and data sets.
+    Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+    Excellent problem-solving abilities and a passion for innovation.
+    Hands-on Experience using Google Cloud Platform, AWS and/or Azure.
+    Hands on experience in Python using libraries like NumPy, Pandas, nltk, xgboost etc.
+    Understanding of Cluster computing frameworks like Spark 
+    Deep understanding of machine learning algorithms and principles.
+    Experience with machine learning frameworks (TensorFlow, PyTorch).
+
+ 
+
+You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!
+
+ 
+
+As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:
+
+• Immediate medical, dental, and prescription drug coverage
+
+• Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up child care and more
+
+• Vehicle discount program for employees and family members, and management leases
+
+• Tuition assistance
+
+• Established and active employee resource groups
+
+• Paid time off for individual and team community service
+
+• A generous schedule of paid holidays, including the week between Christmas and New Year’s Day
+
+• Paid time off and the option to purchase additional vacation time.
+
+For a detailed look at our benefits, click here: Benefit Summary 
+
+This position is a salary grade 8. 
+
+This position is a range of salary grades 8.
+
+Visa sponsorship is available for this position.
+
+Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.
+
+We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, If you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.
+ 
+
+SOUTHEAST MI RESIDENTS: Please note, this job is posted as remote unless the selected candidate lives within 50 miles of Dearborn, MI. We request the candidate to be onsite 1-2 days a week. 
+
+#LI-Remote
+",11:02:1714924950

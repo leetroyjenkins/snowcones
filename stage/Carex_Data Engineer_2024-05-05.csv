@@ -1,0 +1,38 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer,Carex,2024-05-05,,on,https://www.carexconsulting.com/jobs/data-engineer/?utm_source=Linkedin&utm_medium=referral&utm_campaign=wrap,https://www.linkedin.com/jobs/view/3882369781/?refId=ab7c42a3-7f88-45a7-bb11-eba3eef7f412&trackingId=XK9lf%2BtmSOOb94doSh5xHA%3D%3D,https://www.carexconsulting.com/jobs/data-engineer/?utm_source=Linkedin&utm_medium=referral&utm_campaign=wrap,,,,"Carex is partnering with a Wisconsin based employer to find a Data Engineer, this a direct hire opportunity that will work in a hybrid environment in Madison, Milwaukee, or Wausau. In this role. The Data Engineer plays a pivotal role in the development and implementation of data, analytics, digital, and CRM solutions for the company. In this role you will be responsible for designing, maintaining, and optimizing the company’s data infrastructure, this role focuses on building and refining data pipelines and architectures. The primary goal is to empower the company in creating and continuously enhancing data-driven products for key stakeholders, including employees, clients, prospects, carriers, and other brokers.
+
+What you will do:
+
+    Design and develop robust data architectures, encompassing data models, data flows, and storage solutions.
+    Construct and manage data pipelines for seamless movement of data between source systems and the company’s data warehouse.
+    Develop and execute ETL (Extract, Transform, Load) processes to ensure data cleanliness, accuracy, and readiness for analysis.
+    Optimize data pipelines and architectures to enhance performance and scalability.
+    Collaborate closely with business users, data scientists, and stakeholders to comprehend data requirements and design tailored solutions.
+    Integrate new data sources to augment analytical value.
+    Implement and enforce data governance policies, ensuring compliance with data privacy regulations.
+    Create and maintain comprehensive documentation for data systems and processes.
+    Continuously monitor data systems to uphold data quality and reliability.
+    Stay abreast of the latest advancements in data engineering technologies and tools.
+
+What you will be doing:
+
+    Bachelor’s degree in Computer Science, Information Systems, Engineering, or equivalent.
+    Familiarity with Kimball, Star Schema, etc.
+    1-3+ years of experience with Cloud-based Data Warehousing platforms such as RDS, Redshift, Snowflake, etc.
+    Proficiency in data modeling best practices.
+    1-3+ years of experience with orchestration tools such as Dagster, Airflow, Prefect, etc.
+    Experience with container management frameworks like Docker, Kubernetes, ECR, etc.
+    Proficiency in CI/CD processes using tools like GitHub Actions and source control tools such as GitHub, etc.
+    Strong coding skills in Python, Scala, and Java.
+    Experience with dbt-core is advantageous.
+    Knowledge of Generative AI is a plus.
+    AWS certifications such as Cloud Practitioner, Solutions Architect, DevOps Engineer, Developer, Database, Data Analytics, Machine Learning are desirable.
+    Fluent in relational based systems and writing complex SQL
+    Strong analytical and problem-solving skills with ability to represent complex algorithms in software
+    Strong understanding of database technologies and management systems
+    Strong understanding of data structures and algorithms
+    Database architecture testing methodology, including execution of test plans, debugging, and testing scripts and tools
+    Strong analytical and problem-solving skills
+    Experience building real-time streaming data pipelines and APIs
+
+Carex Consulting Group is an equal opportunity employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status.",10:56:1714924580

@@ -1,0 +1,55 @@
+jobTitle,company,applicationDate,location,remoteBool,companyUrl,sourceUrl,applicationUrl,listedComp,estimatedComp,requestedComp,jobDescription,submissionTime
+Data Engineer,Oncohealth,2024-05-01,,on,,,https://oncohealth.us/careers/,,,,"About OncoHealth
+
+OncoHealth is a leading digital health company dedicated to helping health plans, employers, providers, and patients navigate the physical, mental, and financial complexities of cancer through technology enabled services. Supporting more than 8 million people in the US and Puerto Rico, OncoHealth offers digital solutions for treatment review and virtual care across all cancer types.
+
+About the Role
+ 
+The Data Engineer is primarily responsible for the development and maintenance of data products and pipelines which support OncoHealth’s OneUM and Iris offerings. This role participates in cross-functional projects, design, and implements scalable data solutions.
+
+    Participates in data engineering efforts within the enterprise data and analytics team to provide data pipeline and platform development and maintenance utilizing engineering best practices, CI/CD, and test-driven development in an Agile environment 
+    Implement modern data pipelines supporting healthcare technical services on public cloud (Python, Databricks, SQL Server, Azure, Airflow)
+    Deliver innovative data solutions
+    Development and support of all data systems
+    Participate in production and incident management for OneUM and Iris
+    Collaboratively work with functional leadership, business users, and engineers across the organization to develop data products, identify and track key milestones, and implement solutions to enable data and drive culture 
+    Partner with DevOps, security, compliance, and technical teams in multiple lines of business to create innovative technical solutions within OncoHealth’s product offerings
+    Collaborate with business users, clients, and vendors to translate complex business requirements into data solutions
+    Coordinate with data governance and data architects to create maintainable and scalable solutions
+
+About You
+
+    Bachelor’s degree or relevant experience required
+    2-4 years of data engineering experience or relevant educational attainment required
+    The ideal candidate projects high energy, possesses a passion for state-of-the-art technology, and enjoys finding solutions to complex data problems.
+    Experience creating and managing technical data products in support of enterprise initiatives.
+    Demonstrated ability to analyze complex business needs and recommend practical business solutions is required.
+    Familiarity with healthcare data and ontologies including claims, eligibility, provider, and clinical data sets is preferred. 
+    Candidate must be an active Python and SQL developer.
+    The ideal candidate will have demonstratable experience using technologies such as Databricks, Airflow, ADF, and data warehousing as part of ETL and other enterprise data solutions. Nice to have experience with event driven architectures and APIs. Python, SQL, NoSql, Pyspark, Spark SQL, Databricks, Azure cloud-native tools, Data Warehouses, Orchestration (Airflow), Kafka.
+
+About the Location
+
+OncoHealth is committed to remote, hybrid or in office work options.  The majority of the team will be remote or in hybrid work arrangements with offices in Atlanta, GA and Guaynabo, PR.  We are open to employees nationwide but work primarily in the Eastern and Central Time Zones.
+
+Our Culture
+
+Taking ownership of quick action, critically thinking through the needs, and working well with others are key competencies of team member success.  Our leadership is dedicated to building a culture based on respect, clinical excellence, innovation – all with a focused mission of putting patients first! 
+
+We offer a full benefit package on your first day, along with a company bonus.  You may visit or work from our very modern and engaging offices, and experience a fun, collaborative environment where social activities and community events matter. We enjoy being together!
+ 
+OncoHealth is committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and team members without regard to race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law. All employment decisions are based on qualifications, merit, and business need.
+
+The Opportunity
+
+The cost of cancer related medical services and prescription drugs in the United States is expected to reach $246 billion by 2030. OncoHealth has enjoyed rapid growth over the past 3 years and seeks smart, collaborative people to join its team. We have just under 250 team members, so we can move swiftly but precisely to the market needs of our customers. Strongly backed financially by Arsenal Capital Partners & McKesson Corporation, we remain in an investment and growth mode. This means we are open-minded to how we get the work done – now is the perfect time to talk to us!
+
+Our Current Solutions
+
+Through the use of OncoHealth's utilization management system, OneUM, our customers can use a single e-Prior Authorization portal for all oncology drug request and treatments. Our system improves quality of care, reduces provider abrasion and gives health plans visibility into the total cost of oncology treatment.   
+
+OncoHealth offers Oncology Insights Pro, an analytic software solution that enables health plans to use data and analytics to improve oncology programs.  Using real world data, our engineers normalize data to create analytic dashboards with drill down compatibilities.  The data is the paired with expert guidance providing the strategies an insight needed to keep up with the continuing evolving cancer treatment landscape.   
+
+OncoHealth offers Pharmacy Consulting services to health plans and pharmaceutical companies.  New cancer treatments are entering the market at an unrelenting pace.  Since 2018, the FDA approved 121 new cancer applications including 49 novel cancer drug entities.  Our Board-Certified Oncology Pharmacologists can help health plans update drug policies, offer utilization management and formulary advice, and development training for staff.  
+
+OncoHealth's latest offering is Iris, a digital telehealth platform that delivers personalized, oncology-specific support to navigate the physical symptoms and emotional challenges caused by cancer and cancer treatment. Powered by technology, staffed 24X7, and delivered with empathy, Iris allows patients to connect with trained oncology experts and receive personalized, oncology-specific telehealth support.",11:05:1714925102
